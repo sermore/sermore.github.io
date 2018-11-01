@@ -7,7 +7,7 @@ categories: angular gh-pages github
 
 A quick guide to publish Angular 6 applications using Github project pages.
 
-First, you have to install the `angular-cli-pages` with yarn
+First, you have to install the package `angular-cli-pages` with yarn
 ```
 yarn global add angular-cli-ghpages
 ```
