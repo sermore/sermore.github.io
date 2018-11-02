@@ -3,6 +3,7 @@ layout: post
 title:  "How to publish Angular 6 applications to Github pages"
 date:   2018-11-01 20:28:11 +0100
 categories: angular gh-pages github
+comments: true
 ---
 
 A quick guide to publish Angular 6 applications using Github project pages.
