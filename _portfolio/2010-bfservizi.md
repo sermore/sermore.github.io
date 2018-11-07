@@ -26,7 +26,7 @@ My duties were:
 * Technical relationships with customer, in order to collect and analyse technical specifications
 * Functional analysis and software design
 * Times and costs estimation
-* Software development as lead developer
+* Software development
 
 ### Technology stack
 

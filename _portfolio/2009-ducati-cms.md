@@ -33,7 +33,7 @@ My duties were:
 * Functional analysis and software design
 * Times and costs estimation
 * Team leadership
-* Software development as lead developer
+* Software development
 
 ### Technology stack
 

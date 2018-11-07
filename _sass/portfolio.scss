@@ -9,3 +9,15 @@
     border-radius: .3em;
     font-size: .8em;
 }
+
+.resume {
+    border: none;
+    tr:nth-child(even) {
+        background-color: transparent !important;
+        border: none;
+    }
+    td {
+        border: none;
+        vertical-align: top;
+    }
+}
