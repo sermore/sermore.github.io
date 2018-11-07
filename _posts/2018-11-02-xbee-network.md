@@ -71,24 +71,24 @@ A serial device connected to the first available USB serial port `ttyUSB0` shoul
 [24346.345951] usb 1-2.2: FTDI USB Serial Device converter now attached to ttyUSB0
 ```
 
-1. Open the XCTU application and select `add a radio module` operation. A popup will open, containing the correct serial port pre-selected. See the image below.
+1. Open the XCTU application and select `add a radio module` operation. A popup will open, containing the correct pre-selected serial port. See the image below.
 ![xctu-add-radio-module](/assets/xctu-add-radio-module.png)
 
 1. The device is now listed inside a blue box in XCTU's left panel.
 ![xctu-device-present](/assets/xctu-device-present.png)
 
-1. _Configure the network_; Set the parameter **ID** _PAN ID_ to an unusued value, in order to avoid disturbing other existing networks, for me it's fine to set it to `CCCC`. Always apply any settings pressing the _Write_ button to the right in the parameter row.
+1. _Configure the network_; Set the **ID** _PAN ID_ parameter to an unused value, in order to avoid disturbing other existing networks, for me it's ok to set it to `CCCC`. Always apply any settings pressing the _Write_ button to the right in the parameter row.
 
-1. _Set the node as `Coordinator`_; Set the parameter **CE** _Coordinator Enable_ to `Enabled [1]`. The configuration should be similar to the image below. Note that the node has now a red C, which means that it is correctly identified as a coordinator node.
+1. _Set the node as `Coordinator`_; Set the **CE** parameter _Coordinator Enable_ to `Enabled [1]`. The configuration should be similar to the image below. Note that the node has now a red C, which means that it is correctly identified as a coordinator node.
 ![xctu-device-present](/assets/xctu-coordinator.png)
 
-1. _Set node name_; Set the parameter **NI** _Node identifier_  to `NODE 1`.
+1. _Set node name_; Set the **NI** _Node identifier_ parameter  to `NODE 1`.
 
-1. Remove the first device from USB adapter and insert the second. Follow the same steps 3 to 5 and set up the **ID** _PAN ID_ to the same value as above. 
-Set node name to `NODE 2` setting the parameter **NI** _Node identifier_.
+1. Remove the first device from USB adapter and insert the second. Follow the same steps from 3 to 5 and set up the **ID** _PAN ID_ to the same value as above. 
+Set node name to `NODE 2` setting the **NI** _Node identifier_ parameter.
 The second node should have a green R, which means Router.
 
-1. Set up the final network configuration, in which the coordinator is connected to the USB adapter and the router is mounter on the other adapter. In this way the host computer will communicate with the Coordinator using the serial port through the USB.
+1. Set up the final network configuration, in which the coordinator is connected to the USB adapter and the router is mounted on the other adapter. In this way the host computer will communicate with the Coordinator using the serial port through the USB.
 
 1. Discover the devices connected to the radio network: Click on the `discover radio nodes` button to the right of the blue box containing the first node.
 The second node should be identified within seconds and it should appear below the first one.

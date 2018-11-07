@@ -13,18 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Coding relics and quisquilie
-email: sergio@reliqs.net
+title: Sergio Moretti
+email: sergio@sergiomoretti.info
 description: >- # this means to ignore newlines until "baseurl:"
   Experiments and digressions about coding and software development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://reliqs.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sergiomoretti.info" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  sermore
 linkedin_username: morettisergio
 google_analytics: UA-39821630-1
 disqus:
   shortname: reliqs
+
+collections:
+  portfolio:
+    output: true
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,35 @@
+---
+layout: default
+comments: false
+---
+
+<header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+<div class="post-content">
+{% assign sorted = site.portfolio | sort: 'date' %}
+{% for project in sorted reversed %}
+  <h2>
+    <a href="{{ project.url }}">
+      {{ project.title }}
+    </a>
+  </h2>
+  <p>{{ project.excerpt | markdownify }}</p>
+  {% if project.banner %}
+  <p>
+    {% if project.banner.url %}<a href="{{ project.banner.url }}">{% endif %}
+      <img alt="{{ project.banner.title }}" src="{{ project.banner.img }}" title="{{ project.banner.title }}">
+    {% if project.banner.url %}</a>{% endif %}
+  </p>
+  {% endif %}
+  {% if forloop.last == false %}
+  <hr/>
+  &nbsp;
+  {% endif %}
+{% endfor %}
+</div>

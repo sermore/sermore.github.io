@@ -1,0 +1,2 @@
+{% assign list = include.items | split:"," %}
+{% for item in list %}<span class="tag">{{ item }}</span>{% endfor %}
