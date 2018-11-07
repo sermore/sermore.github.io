@@ -22,9 +22,9 @@ url: "https://sergiomoretti.info" # the base hostname & protocol for your site, 
 #twitter_username: jekyllrb
 github_username:  sermore
 linkedin_username: morettisergio
-google_analytics: UA-39821630-1
+google_analytics: UA-128890291-1
 disqus:
-  shortname: reliqs
+  shortname: sergiomoretti
 
 collections:
   portfolio:
