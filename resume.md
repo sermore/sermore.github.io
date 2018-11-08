@@ -32,11 +32,11 @@ Intermediate
 ---
 
 | October 2018 - Present | **Software Engineer** <br /> Freelance |
-| March 2018 - September 2018 | **Software architect** <br /> CRIF S.p.A. Bologna, Italy <br /> <br /> Project technical ownership, team leadership, time estimation, technical relationships with customers, software design and development |
-| 2013 - 2018 | **Senior Engineer** <br /> Gaming Laboratories International, Inc. – GLI Italy B.V. Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, technical relationships with customers, Source code review |
-| 2008 - 2013 | **Sofware Engineer / Architect** <br /> Gecod Srl Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, technical relationships with customers, software design and development, corporate technical strategist |
-| 2007 - 2008 | **Business Consultant** <br /> Gruppo Manutencoop Società Cooperativa Zola Predosa, Bologna, Italy <br /> <br /> Project management, technical relationships with IT service provider and customers, IT design, functional analysis and definition of IT specifications |
-| 2001 - 2007 | **Software Engineer / Architect** <br /> NSI Nier Soluzioni Informatiche Srl Castel Maggiore, Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, relationship with customers, software design and development, corporate technical strategist, responsible for linux corporate solutions |
+| March 2018 - September 2018 | **Software architect** <br /> [CRIF S.p.A.](https://www.crif.com/) Bologna, Italy <br /> <br /> Project technical ownership, team leadership, time estimation, technical relationships with customers, software design and development |
+| 2013 - 2018 | **Senior Engineer** <br /> [Gaming Laboratories International, Inc. – GLI Italy B.V.](https://www.gaminglabs.com/) Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, technical relationships with customers, Source code review |
+| 2008 - 2013 | **Sofware Engineer / Architect** <br /> [Gecod Srl](http://www.kettydo.com/) Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, technical relationships with customers, software design and development, corporate technical strategist |
+| 2007 - 2008 | **Business Consultant** <br /> [Gruppo Manutencoop Società Cooperativa](https://www.rekeep.com/) Zola Predosa, Bologna, Italy <br /> <br /> Project management, technical relationships with IT service provider and customers, IT design, functional analysis and definition of IT specifications |
+| 2001 - 2007 | **Software Engineer / Architect** <br /> [NSI Nier Soluzioni Informatiche Srl](https://nsi.it/) Castel Maggiore, Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, relationship with customers, software design and development, corporate technical strategist, responsible for linux corporate solutions |
 {:.resume }
 
 ##  Education and training
