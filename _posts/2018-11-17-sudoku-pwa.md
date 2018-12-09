@@ -6,7 +6,7 @@ categories: angular sudoku pwa
 comments: true
 ---
 
-It's pretty simple adding [PWA](https://developers.google.com/web/progressive-web-apps/) capability to a simple application like [Sudoku](/sudoku).
+It's pretty simple adding [PWA](https://developers.google.com/web/progressive-web-apps/) capability to a simple application like [Sudoku](/sudoku){:target="_blank"}.
 
 Run the command below in order to apply dependencies and basic configuration to be compliant with PWA requirements:
 ```
