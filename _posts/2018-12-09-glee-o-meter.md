@@ -2,7 +2,7 @@
 layout: post
 title: Angular 7 Glee-o-meter
 date:   2018-12-09 12:11:11 +0100
-categories: angular spring rest oauth2
+categories: angular spring rest oauth2 jwt
 comments: true
 ---
 
