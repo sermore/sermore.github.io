@@ -14,10 +14,10 @@ My activities have been primarily focused on the build of non-public web applica
 ## Skills
 ---
 Advanced
-{% include tagged-items.html items="Java, Spring Framework, Hibernate, jQuery, Oracle DB, Git, Javascript, SQL, Shell-programming, Struts, Maven, Junit, JAX-WS, PostgreSql, MySql, Linux, Debian, Ubuntu, RedHat" %}
+{% include tagged-items.html items="Java, Spring Boot, JPA, REST, Oracle DB, Git, Javascript, SQL, Shell-programming, OAuth2, Maven, Junit, JAX-WS, PostgreSql, MySql, Linux, Debian, Ubuntu" %}
 
 Intermediate
-{% include tagged-items.html items="C, C++, Python, Ruby, HTML5, CSS3, XSLT, C#, Perl, GWT,AspectJ/AOP, MyBatis/iBatis, ActiveMQ, Apache Kafka, Angular, Ember, NodeJS, Bootstrap, QUnit, ExtJs, Google Maps, XBee, Ruby On Rails, Qt, Microsoft SQL Server, Heroku, RedHat OpenShift" %}
+{% include tagged-items.html items="C, C++, Python, Ruby, HTML5, CSS3, AspectJ/AOP, MyBatis/iBatis, ActiveMQ, Apache Kafka, Angular, Ember, NodeJS, Bootstrap, QUnit, XBee, Ruby On Rails, Qt, Microsoft SQL Server, Heroku, RedHat OpenShift" %}
 
 
 ## Qualifications
@@ -31,6 +31,7 @@ Intermediate
 ## Work Experience
 ---
 
+| February 2019 - Present | **Software Engineer** <br /> [Westpole](https://westpole.it) Bologna, Italy <br /> <br /> Software design and development |
 | October 2018 - Present | **Software Engineer** <br /> Freelance |
 | March 2018 - September 2018 | **Software architect** <br /> [CRIF S.p.A.](https://www.crif.com/) Bologna, Italy <br /> <br /> Project technical ownership, team leadership, time estimation, technical relationships with customers, software design and development |
 | 2013 - 2018 | **Senior Engineer** <br /> [Gaming Laboratories International, Inc. – GLI Italy B.V.](https://www.gaminglabs.com/) Bologna, Italy <br /> <br /> Project ownership, team leadership, time and costs estimation, technical relationships with customers, Source code review |
